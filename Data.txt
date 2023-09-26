@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6q5VS.webp",
+            "title": "Sammy Dao 1",
+            "text_Content_": "Begin with a captivating introduction that highlights the significance of decentralized governance in the blockchain and crypto space. Explain briefly what a DAO is and why Sammy DAO stands out"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6quDl.webp",
+            "title": "Sammy Dao 2",
+            "text_Content_": "Provide a clear and concise explanation of Sammy DAO. Include details such as its purpose, mission, and goals"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6qRx2.webp",
+            "title": "Sammy Dao 3",
+            "text_Content_": "Explore the technology stack that powers Sammy DAO. Discuss the blockchain platform it's built on (e.g., Ethereum, Binance Smart Chain) and any custom smart contracts."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6qTN4.webp",
+            "title": "Sammy Dao 4",
+            "text_Content_": "Showcase real-world use cases and projects that Sammy DAO has been involved in or funded."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6qnln.webp",
+            "title": "Sammy Dao 5",
+            "text_Content_": "Highlight the impact of Sammy DAO's decisions on these projects and the broader crypto ecosystem."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6qIRf.webp",
+            "title": "Sammy Dao 6",
+            "text_Content_": "Dive into the governance structure of Sammy DAO. Explain how decisions are proposed, discussed, and voted upon."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6qzHG.webp",
+            "title": "Sammy Dao 7",
+            "text_Content_": "Share success stories or significant achievements attributed to Sammy DAO."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6qoSs.webp",
+            "title": "Sammy Dao 8",
+            "text_Content_": "Include testimonials or interviews with members or project founders who have benefited from Sammy DAO's support."
         }
     ]
 }
